@@ -1,0 +1,13 @@
+1- https://www.geeksforgeeks.org/binary-search/
+
+
+2- https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/
+
+3- https://www.geeksforgeeks.org/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x/
+
+
+4- https://www.geeksforgeeks.org/minimum-adjacent-swaps-to-move-maximum-and-minimum-to-corners/
+
+
+5- https://www.geeksforgeeks.org/check-whether-a-given-point-lies-inside-a-triangle-or-not/
+
